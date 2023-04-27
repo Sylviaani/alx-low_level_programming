@@ -9,7 +9,7 @@ int main(void)
 {
 	int i;
 
-	printf("Infinite loop incoming :(\n");
+	printf("do not cause an infinite loop :(\n");
 
 	i = 0;
 
