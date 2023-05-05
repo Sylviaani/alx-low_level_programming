@@ -16,7 +16,8 @@ int main(void)
         char *res;
 
         res = infinite_add(n, m, r, 100);
-        if (res == 0)
+
+	if (res == 0)
         {
                 printf("Error\n");
         }
