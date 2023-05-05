@@ -55,4 +55,5 @@ int main(void)
         {
                 printf("%s + %s = %s\n", n, m, res);
         }
+        return (0);
 }
